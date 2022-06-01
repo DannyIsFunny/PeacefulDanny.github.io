@@ -1,10 +1,7 @@
-# PeacefulDanny.github.io
-> 记录平时看的好书，技术为主。 
-> 持续更新 ing
+# Danny的小屋
+
 
 # 技术书籍
-
-## GPU 硬件原理
 
 ## 分布式
 - [《分布式系统原理介绍》](https://lrita.github.io/images/posts/distribution/%E5%88%86%E5%B8%83%E5%BC%8F%E5%8E%9F%E7%90%86%E4%BB%8B%E7%BB%8D.pdf)：看了一遍，适合入门读，理论知识清晰易懂
